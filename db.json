@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "jitu raj",
-      "username": "Bret",
+      "name": "jitu singh raj singh",
+      "username": "this is my favarout",
       "email": "Sincere@april.biz",
       "address": {
         "street": "Kulas Light",
@@ -170,32 +170,24 @@
       "id": 8
     },
     {
-      "name": "jitu ",
-      "id": 9
-    },
-    {
       "website": "jitu@",
-      "id": 10
-    },
-    {
-      "website": "jitu@",
-      "id": 11
-    },
-    {
-      "website": "ffff",
-      "id": 12
+      "id": 10,
+      "name": "jitu singh raj",
+      "email": "asb@gmail.com",
+      "phone": "7050631913",
+      "username": "o2eiwoqee"
     },
     {
       "website": "ffff",
-      "id": 13
-    },
-    {
-      "website": "ffff",
-      "id": 14
+      "id": 14,
+      "name": "jitu singh raj",
+      "email": "asb@gmail.com",
+      "phone": "7050631913",
+      "username": "this is my favarout"
     },
     {
       "name": "jitu singh raj",
-      "username": "",
+      "username": "this is my favarout",
       "email": "asb@gmail.com",
       "phone": "7050631913",
       "website": "ffff",
